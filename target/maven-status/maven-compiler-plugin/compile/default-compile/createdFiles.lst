@@ -1,0 +1,16 @@
+com\xxin\resttemplate\util\JsonUtil.class
+com\xxin\resttemplate\config\AnnotationRestTemplateDefinitionRegistry$1.class
+com\xxin\resttemplate\dto\RequestMappingInfoDto.class
+com\xxin\resttemplate\config\AnnotationRestTemplateDefinitionRegistry.class
+com\xxin\resttemplate\interceptor\RestTemplateInterceptor.class
+com\xxin\resttemplate\proxy\AnnotationRestTemplateProxy$1.class
+com\xxin\resttemplate\annotation\ReturnHeaders.class
+com\xxin\resttemplate\proxy\AnnotationRestTemplateProxy.class
+com\xxin\resttemplate\annotation\Headers.class
+META-INF\spring-configuration-metadata.json
+com\xxin\resttemplate\proxy\AnnotationRestTemplateProxy$2.class
+com\xxin\resttemplate\annotation\AnnotationRestTemplate.class
+com\xxin\resttemplate\annotation\EnableAnnotationRestTemplate.class
+com\xxin\resttemplate\config\AnnotationRestTemplateBootstrapConfiguration.class
+com\xxin\resttemplate\properties\ScanProperties.class
+com\xxin\resttemplate\proxy\AnnotationRestTemplateFactory.class

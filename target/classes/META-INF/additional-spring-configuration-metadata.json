@@ -1,0 +1,21 @@
+{
+  "properties": [
+    {
+      "name": "starfish.annotaion.resttemplate.scan.packages",
+      "type": "java.lang.String",
+      "defaultValue": "com.hikvision",
+      "description": "starfish.annotaion.restTemplate scan package path",
+      "sourceType": "com.xxin.resttemplate.properties.ScanProperties"
+    }
+  ],
+  "hints": [
+    {
+      "name": "annotaion.resttemplate.scan.packages",
+      "values": [
+        {
+          "value": "com"
+        }
+      ]
+    }
+  ]
+}
